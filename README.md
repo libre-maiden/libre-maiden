@@ -27,5 +27,5 @@
 - - -
 
 
-![](https://github-profile-trophy.vercel.app/?username=liberty-maiden&theme=onedark)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=liberty-maiden&langs_count=8&exclude_repo=st,encoder,dev&theme=dracula)
+![](https://github-profile-trophy.vercel.app/?username=libre-maiden&theme=onedark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=libre-maiden&langs_count=8&exclude_repo=st,encoder,dev&theme=dracula)
